@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#- 🔭 I’m currently working on XP INC as a Data Engineer;
+#- 🔭 I’m currently working on XP INC as a Data Engineer; \n
 #- 😺😽🐈 I have 3 Cats.
 
 <!--
