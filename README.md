@@ -26,7 +26,7 @@ Currently working with *Databricks, **Azure, **Delta Lake, and scalable pipeline
 
 ---
 
-*Some GitHub stats:*
+*Some GitHub stats:* Still in construction
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
