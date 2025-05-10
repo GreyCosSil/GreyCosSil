@@ -1,4 +1,4 @@
-### Hi there! I'm Greyce or Grey for my friends
+### Hi there! I'm Grey
 *Data Engineer | Cat Lover | Smart Solutions Explorer*
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="70" align="right"/>
